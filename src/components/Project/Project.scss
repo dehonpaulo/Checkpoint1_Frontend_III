@@ -1,0 +1,44 @@
+.card {
+    width: 18rem;
+    margin: 0 20px 40px 20px;
+    box-shadow: 0px 4px 12px 3px rgba(50, 50, 50);
+    transition: 0.2s;
+}
+
+.card:hover {
+    transform: scale(1.1);
+}
+
+.icone{
+    width: 40px;
+}
+
+.html {
+    color: orangered;
+    text-transform: uppercase;
+    margin: 0 8px 0 0;
+}
+
+.css {
+    color: rgb(50, 50, 255);
+    text-transform: uppercase;
+    margin: 0 8px 0 0;
+}
+
+.bootstrap {
+    color: blueviolet;
+    text-transform: capitalize;
+    margin: 0 8px 0 0;
+}
+
+.javascript {
+    color: rgb(240, 240, 30);
+    text-transform: capitalize;
+    margin: 0 8px 0 0;
+}
+
+.react {
+    color:rgb(101, 101, 212);
+    text-transform: capitalize;
+    margin: 0 8px 0 0;
+}
